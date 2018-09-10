@@ -1,0 +1,15 @@
+.heading {
+    float: left;
+}
+
+.indicator {
+    float: right;
+}
+
+.back-button {
+    margin-right: 8px;
+}
+
+.forward-button {
+    margin-left: 8px;
+}
